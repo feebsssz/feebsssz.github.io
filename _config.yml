@@ -1,0 +1,16 @@
+title: Yao Zhang
+email: phoebeyao.zhang@gmail.com
+description: >
+  Professional website for research and technical work in
+  data science, engineering, and complex systems.
+url: https://feebsssz.github.io
+
+markdown: kramdown
+theme: minima
+
+header_pages:
+  - cv.md
+  - _pages/experience.md
+  - _pages/projects.md
+  - _pages/skills.md
+  - _pages/education.md
