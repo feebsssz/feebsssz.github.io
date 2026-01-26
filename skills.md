@@ -6,11 +6,7 @@ permalink: /skills/
 
 {% for skill in site.data.skills %}
 ### {{ skill.category }}
-{% if skill.items %}
-<ul>
-{% for item in skill.items %}
-  <li>{{ item }}</li>
-{% endfor %}
-</ul>
-{% endif %}
+
+{{ skill.description }}
+
 {% endfor %}

@@ -1,39 +1,23 @@
-- category: Modeling & Reasoning
-  items:
-    - Time-series analysis
-    - Anomaly detection
-    - Uncertainty reasoning
-    - Statistical modeling
-    - Scaling and dimensional analysis
+- category: "Data Science & Machine Learning (Complex Systems)"
+  description: Design, fine-tuning, and application of machine learning and deep learning models to solve complex, nonlinear system problems across energy, aerospace, and finance domains. Strong experience with time-series analysis, anomaly detection, forecasting, and interpretable ML (e.g. SHAP). Skilled in constructing domain-informed datasets, feature representations, and evaluation frameworks to support robust modeling under uncertainty. Proficient with PyTorch, TensorFlow, Keras, scikit-learn, and scientific Python ecosystems.
 
-- category: Machine Learning & AI
-  items:
-    - Transformers
-    - CNNs
-    - Reconstruction learning
-    - Interpretable ML
-    - Agentic AI systems
+- category: "AI Systems & Agentic AI"
+  description: Design and implementation of AI systems that integrate machine learning models with agentic workflows and downstream decision-support processes. Experience with prompt design, orchestration patterns, evaluation, and governance of agent-based systems in production contexts. Skilled in building end-to-end ML and AI pipelines, from data modeling and feature engineering to validation, deployment, and long-term operation.
 
-- category: Engineering & Physics
-  items:
-    - Multiphase flow
-    - Computational fluid dynamics (CFD)
-    - Experimental design
-    - Nonlinear systems
-    - Multiphysics modeling
+- category: "Software Engineering & Scientific Programming"
+  description: Strong background in Python for production systems, data pipelines, and ML workflows. Experience with R, MATLAB, and Fortran for scientific computing and numerical analysis. Proficient with Linux-based development environments, Git, and reproducible research practices. Experienced in high-performance computing, including MPI and parallel execution.
 
-- category: Systems & Platforms
-  items:
-    - Production ML pipelines
-    - Model evaluation and governance
-    - CI/CD for AI systems
-    - Secure data pipelines
+- category: "Data Systems, Databases & Visualization"
+  description: Experience working with relational and analytical databases and data integration workflows. Skilled in data wrangling, exploratory analysis, and visualization using Python-based tools. Familiar with building analysis and reporting pipelines using Jupyter, Matplotlib, and Power BI.
 
-- category: Tools & Languages
-  items:
-    - Python
-    - PyTorch
-    - MATLAB
-    - Fortran
-    - SQL
-    - Azure ML
+- category: "Computational Modeling & CFD"
+  description: Advanced experience with computational fluid dynamics for multiphysics simulation and model validation. Proficient in OpenFOAM and Ansys Fluent for numerical simulation of complex flow systems. Experienced in post-processing and visualization.
+
+- category: "Experimental Systems & Measurement"
+  description: Specialized in experimental fluid mechanics and multiphase flow diagnostics. Experience with advanced measurement techniques including PIV, SMPS, UV spectroscopy, thermographic sampling, and thin-film metrology. Skilled in experimental design, data acquisition systems, calibration, and LabVIEW-based instrumentation.
+
+- category: "Technical Leadership & Project Delivery"
+  description: Experience leading and coordinating technical projects across interdisciplinary teams. Skilled in project planning, risk assessment, stakeholder communication, and delivery of technical milestones. Strong technical writing skills, including peer-reviewed publications, technical reports, and specifications.
+
+- category: "Languages"
+  description: "English (fluent), Chinese (native), French (basic), Norwegian (basic)"
