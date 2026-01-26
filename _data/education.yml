@@ -1,35 +1,32 @@
-- degree: Ph.D.
-  field: Energy and Petroleum Engineering
-  institution: University of Stavanger
-  year: 2024
-  focus:
-    - Multiphase flow
-    - CFD
-    - Instability analysis
-    - Uncertainty modeling
+- degree: Ph.D., Energy and Petroleum Engineering
+  institution: University of Stavanger, Norway
+  start: 2021
+  end: 2024
+  details:
+    - Research focus on computational fluid dynamics, instability analysis, and modeling of complex multiphase systems under uncertainty.
+    - "Thesis: *Fluid Displacement in Confined Geometries: Experimental and Computational Studies of Interfacial Dynamics, Flow Characteristics, and Wall Film Removal* ([link](https://hdl.handle.net/11250/3205019))"
 
-- degree: Master of Liberal Arts (ALM)
-  field: Data Science
-  institution: Harvard University
-  year: 2024
-  focus:
-    - Machine learning
-    - Risk modeling
-    - Climate and macroeconomic uncertainty
+- degree: Master of Liberal Arts, Data Science
+  institution: Harvard University, USA
+  start: 2022
+  end: 2024
+  details:
+    - "Thesis: *Extreme weather mortgage risk analysis: a deep learning approach to forecasting loan default and performance under macroeconomic and climate uncertainty.* (Sponsored by PNC Bank)"
 
-- degree: M.S.
-  field: Aerospace Engineering
-  institution: Georgia Institute of Technology
-  year: 2017
-  focus:
-    - Multiphysics simulation
-    - Combustion
-    - Fluid mechanics
+- degree: Master of Science, Aerospace Engineering
+  institution: Georgia Institute of Technology, USA
+  start: 2015
+  end: 2017
+  details:
+    - "Thesis: Numerical modeling of non-equilibrium plasma-assisted combustion using CFD and multi-physics simulation."
+    - "Highly cited work: Application of Convolutional Neural Network (CNN) to predict airfoil lift coefficient."
+    - Successfully passed comprehensive examination and attained doctoral candidacy in Combustion & Propulsion and Fluid Mechanics Turbulence Flow.
 
-- degree: B.S.
-  field: Aerospace Engineering
-  institution: Georgia Institute of Technology
-  year: 2015
-  focus:
-    - Energy systems
-    - Fluid dynamics
+- degree: Bachelor of Science, Aerospace Engineering
+  institution: Georgia Institute of Technology, USA
+  start: 2012
+  end: 2015
+  details:
+    - "Completed two minors: Energy Systems; Eastern Asian Studies."
+    - Graduated with Honors.
+    - "Study Abroad: University of Oxford, UK (2012); University of Limerick, Ireland (2013)."
