@@ -1,1 +1,39 @@
-[]
+- category: Modeling & Reasoning
+  items:
+    - Time-series analysis
+    - Anomaly detection
+    - Uncertainty reasoning
+    - Statistical modeling
+    - Scaling and dimensional analysis
+
+- category: Machine Learning & AI
+  items:
+    - Transformers
+    - CNNs
+    - Reconstruction learning
+    - Interpretable ML
+    - Agentic AI systems
+
+- category: Engineering & Physics
+  items:
+    - Multiphase flow
+    - Computational fluid dynamics (CFD)
+    - Experimental design
+    - Nonlinear systems
+    - Multiphysics modeling
+
+- category: Systems & Platforms
+  items:
+    - Production ML pipelines
+    - Model evaluation and governance
+    - CI/CD for AI systems
+    - Secure data pipelines
+
+- category: Tools & Languages
+  items:
+    - Python
+    - PyTorch
+    - MATLAB
+    - Fortran
+    - SQL
+    - Azure ML

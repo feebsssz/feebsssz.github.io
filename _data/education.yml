@@ -1,1 +1,35 @@
-[]
+- degree: Ph.D.
+  field: Energy and Petroleum Engineering
+  institution: University of Stavanger
+  year: 2024
+  focus:
+    - Multiphase flow
+    - CFD
+    - Instability analysis
+    - Uncertainty modeling
+
+- degree: Master of Liberal Arts (ALM)
+  field: Data Science
+  institution: Harvard University
+  year: 2024
+  focus:
+    - Machine learning
+    - Risk modeling
+    - Climate and macroeconomic uncertainty
+
+- degree: M.S.
+  field: Aerospace Engineering
+  institution: Georgia Institute of Technology
+  year: 2017
+  focus:
+    - Multiphysics simulation
+    - Combustion
+    - Fluid mechanics
+
+- degree: B.S.
+  field: Aerospace Engineering
+  institution: Georgia Institute of Technology
+  year: 2015
+  focus:
+    - Energy systems
+    - Fluid dynamics

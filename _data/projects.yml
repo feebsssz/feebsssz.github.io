@@ -1,1 +1,62 @@
-[]
+- title: Transformer-Based Adaptation for Anomaly Detection
+  role: Lead Researcher
+  timeframe: 2025–
+  themes:
+    - Time-series anomaly detection
+    - Reconstruction learning
+  methods:
+    - Transformers
+    - Diffusion models (evaluation)
+    - PyTorch
+
+- title: Dedalus – AI-Powered Inventory Assistant
+  role: Co-developer
+  timeframe: 2025–
+  themes:
+    - NLP
+    - Data integration
+  methods:
+    - LLMs
+    - SQLite
+    - Python
+
+- title: CNN-Based Well Anomaly Detection
+  role: Senior Data Scientist
+  timeframe: 2025
+  themes:
+    - Physics-informed ML
+    - Production AI
+  methods:
+    - CNNs
+    - Signal processing
+    - Azure ML
+
+- title: Electrochemical Model for Dissolvable Alloys
+  role: Lead R&D Engineer
+  timeframe: 2025
+  themes:
+    - Multiphysics modeling
+    - Regression
+  methods:
+    - Physics–data hybrid modeling
+
+- title: Machine Learning for Mortgage Risk (PNC Bank)
+  role: Data Scientist
+  timeframe: 2024
+  themes:
+    - Risk analytics
+    - Interpretability
+  methods:
+    - Time-series modeling
+    - SHAP
+    - Python
+
+- title: Deep Learning for Aerodynamics
+  role: ML Researcher
+  timeframe: 2017–2020
+  themes:
+    - Surrogate modeling
+    - Optimization
+  methods:
+    - CNNs
+    - Physics-informed ML
