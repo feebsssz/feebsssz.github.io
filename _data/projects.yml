@@ -1,62 +1,50 @@
-- title: Transformer-Based Adaptation for Anomaly Detection
-  role: Lead Researcher
-  timeframe: 2025–
-  themes:
-    - Time-series anomaly detection
-    - Reconstruction learning
-  methods:
-    - Transformers
-    - Diffusion models (evaluation)
-    - PyTorch
+- name: Temporal Fusion Transformer (TFT) Adaptation for Anomaly Detection
+  description: Re-engineered NVIDIA's Temporal Fusion Transformer, originally designed for multi-horizon forecasting, into a reconstruction-based anomaly detection framework for discontinuous sensor windows. Designed encoder–decoder reconstruction with MAE-based anomaly scoring, eliminated unseen-category issues, simplified tensor structures, and stabilized training without future inputs. In parallel, evaluated diffusion-based foundation models for anomaly detection, focusing on diagnostic behavior, reconstruction quality, and suitability for production use.
+  skills: Transformers, diffusion models (evaluation), sequence modeling, reconstruction learning, anomaly detection, PyTorch
 
-- title: Dedalus – AI-Powered Inventory Assistant
-  role: Co-developer
-  timeframe: 2025–
-  themes:
-    - NLP
-    - Data integration
-  methods:
-    - LLMs
-    - SQLite
-    - Python
+- name: CNN-Based Well Anomaly Detection (Production AI System)
+  description: Developed a physics-informed deep learning pipeline for anomaly detection on high-frequency well and sensor time-series data. Designed CNN-based classifiers and signal-processing workflows to detect degradation patterns, transient flow abnormalities, and equipment malfunction signatures. System designed for integration with diagnostic and agentic AI workflows.
+  skills: CNNs, time-series ML, physics-informed modeling, Python, Azure ML
 
-- title: CNN-Based Well Anomaly Detection
-  role: Senior Data Scientist
-  timeframe: 2025
-  themes:
-    - Physics-informed ML
-    - Production AI
-  methods:
-    - CNNs
-    - Signal processing
-    - Azure ML
+- name: "Machine Learning for Mortgage Risk: An Interpretable Approach (PNC Bank)"
+  description: Developed interpretable ML models (LSTM, Temporal Fusion Transformer) to assess climate-driven mortgage default risk under macroeconomic and weather uncertainty. Applied SHAP-based explainability to support transparent and decision-relevant risk analysis.
+  skills: Time-series modeling, interpretable ML, risk analytics, Python
 
-- title: Electrochemical Model for Dissolvable Alloys
-  role: Lead R&D Engineer
-  timeframe: 2025
-  themes:
-    - Multiphysics modeling
-    - Regression
-  methods:
-    - Physics–data hybrid modeling
+- name: Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient
+  description: Early deep learning surrogate model integrating physics-informed constraints to predict aerodynamic coefficients with high accuracy.
+  skills: CNNs, surrogate modeling, aerodynamics
+  ref: "Zhang, Sung & Mavris (2018)"
 
-- title: Machine Learning for Mortgage Risk (PNC Bank)
-  role: Data Scientist
-  timeframe: 2024
-  themes:
-    - Risk analytics
-    - Interpretability
-  methods:
-    - Time-series modeling
-    - SHAP
-    - Python
+- name: Learning Aerodynamics with Neural Networks
+  description: Developed a Custom Element Spatial CNN (ESCNN) using coordinate-based inputs to predict aerodynamic behavior with reduced model complexity.
+  skills: Data representation, physics-aware ML, deep learning
+  ref: "Peng et al. (2021, 2022)"
 
-- title: Deep Learning for Aerodynamics
-  role: ML Researcher
-  timeframe: 2017–2020
-  themes:
-    - Surrogate modeling
-    - Optimization
-  methods:
-    - CNNs
-    - Physics-informed ML
+- name: "DockingNet: Deep Neural Network for Airfoil Optimization"
+  description: Hybrid generative–predictive neural network for accelerating airfoil design optimization without CFD-based iteration.
+  skills: Generative modeling, optimization, lift/drag estimation
+  ref: "Peng et al. (2022)"
+
+- name: "Dedalus: AI-Powered Inventory Assistant (In Progress)"
+  description: NLP-enabled assistant for querying fragmented inventory and test data across Excel, Access, and PDF sources; migrated backend to SQLite for structured access and downstream analytics.
+  skills: NLP, LLMs, data integration, Python, SQLite
+
+- name: Electrochemical Model for Dissolvable Alloys
+  description: Hybrid physics–data model predicting dissolution rates under realistic operating conditions using calibrated regression.
+  skills: Multiphysics modeling, regression, electrochemistry
+
+- name: Hemodynamics Surrogate Model (Medical AI)
+  description: UNet-based deep learning surrogate model predicting stenotic blood flow fields in seconds from CFD-trained data.
+  skills: Deep learning, UNet, biomedical CFD, Python
+
+- name: "Petit Appétit: Weekly Meal & Grocery Planner"
+  description: Web-based pipeline for meal planning and grocery list generation using Dask, AWS S3, and web scraping; planned NLP-based extensions.
+  skills: Data pipelines, scraping, Dask, Python, Django
+
+- name: Deep Learning Chess AI (Exploratory)
+  description: Self-learning chess AI trained using reinforcement learning and neural policy optimization through self-play.
+  skills: Reinforcement learning, TensorFlow, policy optimization
+
+- name: COVID-19 and Education Completion Analysis
+  description: Global data analysis using UNESCO and World Bank datasets to quantify the impact of COVID-19 on education outcomes.
+  skills: Data imputation, regression analysis, clustering, policy-oriented analytics
