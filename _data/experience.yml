@@ -1,0 +1,65 @@
+- role: Senior Data Scientist
+  organization: Aker BP
+  location: Stavanger, Norway
+  start: 2025-09
+  end: present
+  domains:
+    - Production AI
+    - Time-series anomaly detection
+    - AI platforms and governance
+  highlights:
+    - End-to-end ownership of production anomaly detection systems for large-scale well and sensor data
+    - Physics-aware feature engineering and evaluation under operational constraints
+    - Integration of ML models with agentic AI decision-support workflows
+    - Enterprise AI foundation development (data pipelines, CI/CD, Responsible AI)
+    - Technical evaluation of foundation models and vendor solutions (NVIDIA, Microsoft)
+
+- role: R&D Lab Engineer
+  organization: Marwell Tech AS
+  location: Norway
+  start: 2025-03
+  end: 2025-06
+  domains:
+    - Physics-based modeling
+    - Experimental systems
+  highlights:
+    - Developed calibrated physics-based models for dissolvable alloy systems
+    - Led experimental campaigns for ExxonMobil Guyana project
+    - Translated experimental results into engineering decision support
+
+- role: Research Fellow
+  organization: University of Stavanger
+  location: Norway
+  start: 2021-08
+  end: 2025-02
+  domains:
+    - Multiphase flow
+    - CFD and instability analysis
+  highlights:
+    - Computational and experimental study of confined multiphase flow systems
+    - Uncertainty reasoning and model validation
+    - Peer-reviewed publications in high-impact journals
+
+- role: Research Fellow
+  organization: Polytechnique Montréal
+  location: Canada
+  start: 2018-01
+  end: 2020-12
+  domains:
+    - Experimental systems
+    - Process modeling
+  highlights:
+    - Autothermal reforming experiments and modeling
+    - International academic–industry collaboration
+
+- role: Graduate Research Fellow
+  organization: Georgia Institute of Technology
+  location: USA
+  start: 2016-05
+  end: 2017-12
+  domains:
+    - Multiphysics simulation
+    - Early machine learning
+  highlights:
+    - Plasma-assisted combustion modeling using CFD and DNS
+    - Early CNN-based surrogate models for aerodynamics
