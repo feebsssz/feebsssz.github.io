@@ -9,10 +9,9 @@ markdown: kramdown
 theme: minima
 
 header_pages:
-  - index.md
-  - cv.md
+  - education.md
   - experience.md
   - projects.md
   - skills.md
-  - education.md
   - publications.md
+  - cv.md
