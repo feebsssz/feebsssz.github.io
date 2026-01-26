@@ -8,6 +8,11 @@ url: https://feebsssz.github.io
 markdown: kramdown
 theme: minima
 
+# Include the _pages directory
+include:
+  - _pages
+
+# Navigation header pages (file paths relative to root)
 header_pages:
   - index.md
   - cv.md

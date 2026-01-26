@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+permalink: /education/
 ---
 
 {% for degree in site.data.education %}

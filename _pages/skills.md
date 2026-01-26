@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skills
+permalink: /skills/
 ---
 
 {% for skill in site.data.skills %}
