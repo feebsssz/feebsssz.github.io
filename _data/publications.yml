@@ -5,13 +5,13 @@
   volume: 1-18
   year: 2025
   type: Journal
+  link: https://doi.org/10.1007/s00397-025-01495-z
 
 - authors: Y. Zhang, K. E. T. Giljarhus, H. J. Skadsem, B. Barrouillet
   title: Viscous fingering and perturbation growth rates of power-law fluids in Hele-Shaw cells
-  venue: Ocean Engineering Science
+  venue: Olympiad in Engineering Science Conference 2025
   year: 2025
-  note: Accepted
-  type: Journal
+  type: Conference
 
 - authors: Y. Zhang
   title: "Fluid displacement in confined geometries: Experimental and computational investigations of interfacial dynamics and wall film removal"
@@ -27,6 +27,7 @@
   volume: "13(1): 21120"
   year: 2023
   type: Journal
+  link: https://doi.org/10.1038/s41598-023-48376-2
 
 - authors: Y. Zhang, B. Barrouillet, S. M. Chavan, H. J. Skadsem
   title: Development of a novel experimental technique for the measurement of residual wall layer thickness in water-oil displacement flows
@@ -34,6 +35,7 @@
   volume: "13(1): 4530"
   year: 2023
   type: Journal
+  link: https://doi.org/10.1038/s41598-023-31732-9
 
 - authors: Y. Zhang, A. H. Rabenjafimanantsoa, H. J. Skadsem
   title: Interfacial dynamics of miscible displacement of shear-thinning fluid in a vertical channel
@@ -41,6 +43,7 @@
   volume: "8(2): 35"
   year: 2023
   type: Journal
+  link: https://doi.org/10.3390/fluids8020035
 
 # 2022
 - authors: W. Peng, Y. Zhang, E. Laurendeau, M. C. Desmarais
@@ -49,6 +52,7 @@
   volume: "12(1): 6779"
   year: 2022
   type: Journal
+  link: https://doi.org/10.1038/s41598-022-10737-6
 
 - authors: W. Peng, Y. Zhang, M. Desmarais
   title: Deep neural network for airfoil optimization
@@ -56,6 +60,7 @@
   pages: "0801"
   year: 2022
   type: Conference
+  link: https://doi.org/10.2514/6.2022-0801
 
 # 2021
 - authors: Z. Musavi, Y. Zhang, E. Robert, K. Engvall
@@ -64,6 +69,7 @@
   volume: "7(1): 469-479"
   year: 2021
   type: Journal
+  link: https://doi.org/10.1021/acsomega.1c04803
 
 - authors: W. Peng, Y. Zhang, M. Desmarais
   title: Spatial convolution neural network for efficient prediction of aerodynamic coefficients
@@ -71,6 +77,7 @@
   pages: "0277"
   year: 2021
   type: Conference
+  link: https://doi.org/10.2514/6.2021-0277
 
 # 2018
 - authors: Y. Zhang, W. J. Sung, D. N. Mavris
@@ -79,6 +86,7 @@
   pages: "1903"
   year: 2018
   type: Conference
+  link: https://doi.org/10.2514/6.2018-1903
 
 # 2017
 - authors: Y. Zhang, S. Yang, W. Sun, V. Yang
@@ -87,6 +95,7 @@
   pages: "4773"
   year: 2017
   type: Conference
+  link: https://doi.org/10.2514/6.2017-4773
 
 - authors: Y. Zhang, S. Yang, W. Sun, V. Yang
   title: "Effects of non-equilibrium plasma discharge on ignition and LTC of DME/O2/Ar mixtures: A numerical investigation"
@@ -96,9 +105,10 @@
 
 - authors: Y. Zhang
   title: Numerical investigation into the effects of non-equilibrium plasma discharge on two-stage ignition and LTC of DME/O2/Ar mixtures
-  venue: arXiv preprint arXiv:1711.04009
+  venue: arXiv preprint
   year: 2017
   type: Preprint
+  link: https://arxiv.org/abs/1711.04009
 
 # 2015
 - authors: X. Gao, Y. Zhang, S. Adusumilli, J. M. Seitzman, W. Sun, T. Ombrello, C. D. Carter
@@ -107,6 +117,7 @@
   volume: "162(10): 3914-3924"
   year: 2015
   type: Journal
+  link: https://doi.org/10.1016/j.combustflame.2015.07.028
 
 - authors: X. Gao, Y. Zhang, S. Adusumilli, J. M. Seitzman, W. Sun, T. Ombrello, C. D. Carter
   title: The effect of ozone addition on flame propagation
@@ -114,3 +125,4 @@
   pages: "0669"
   year: 2015
   type: Conference
+  link: https://doi.org/10.2514/6.2015-0669
