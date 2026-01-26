@@ -1,65 +1,124 @@
 - role: Senior Data Scientist
   organization: Aker BP
-  location: Stavanger, Norway
-  start: 2025-09
-  end: present
-  domains:
-    - Production AI
-    - Time-series anomaly detection
-    - AI platforms and governance
-  highlights:
-    - End-to-end ownership of production anomaly detection systems for large-scale well and sensor data
-    - Physics-aware feature engineering and evaluation under operational constraints
-    - Integration of ML models with agentic AI decision-support workflows
-    - Enterprise AI foundation development (data pipelines, CI/CD, Responsible AI)
-    - Technical evaluation of foundation models and vendor solutions (NVIDIA, Microsoft)
+  start: 09/2025
+  end: Present
+  projects:
+    - name: "AI@Core – Production Anomaly Detection & Agent Integration"
+      items:
+        - Sole data scientist responsible for designing, implementing, and validating an end-to-end time-series anomaly detection modeling of large-scale well and sensor data.
+        - One of two executive-sponsored AI@Core pilot projects (out of seven) that progressed from proof-of-concept to production deployment.
+        - Implemented an end-to-end Python-based ML pipeline encompassing domain-informed data structuring, physics-aware feature engineering, model selection and training, and production-grade inference and evaluation.
+        - Developed anomaly detection models designed for downstream diagnostics and integration with agentic AI systems supporting decision-support workflows.
+        - Established evaluation metrics, validation datasets, and failure analysis to ensure robust performance under real operational conditions.
+    - name: "AI Foundation Platform Development (Software, Infrastructure, Agents)"
+      items:
+        - Core member of the Data Excellence Team building Aker BP's enterprise AI foundation for development, deployment, and lifecycle management of AI agents and copilots.
+        - Designed and implemented platform architecture covering secure data pipelines, compute management, orchestration, and end-to-end CI/CD for AI systems.
+        - Developed reusable ingestion, enrichment, and indexing pipelines using Azure AI Search and Fabric OneLake with strict governance, RBAC, and auditability.
+        - Built SDKs, developer tooling, templates, and automated onboarding workflows enabling consistent and repeatable deployment of AI systems across teams.
+        - Contributed to production governance standards including model evaluation, Responsible AI compliance, security validation, monitoring, and lifecycle management.
+    - name: "Foundation Model Evaluation & Strategic Collaboration (NVIDIA)"
+      items:
+        - Led technical evaluation of NVIDIA time-series foundation models for anomaly detection, including hands-on testing of containerized, out-of-the-box solutions.
+        - Designed and executed benchmarking experiments comparing vendor foundation models against custom in-house implementations.
+        - Re-implemented core model architectures, including Transformer-based and diffusion-based approaches, to assess performance, interpretability, and production suitability.
+        - Provided technical feedback and recommendations to NVIDIA model development teams based on empirical results, operational constraints, and governance requirements.
+    - name: "AI-Augmented Engineering & Agentic AI"
+      items:
+        - Contributed to defining and shaping best practices for incorporating agentic AI and LLM-based tooling into daily workflows, with a focus on correctness, maintainability, and production suitability.
+        - Advised teams on when and how AI-assisted coding can be effectively applied, and where traditional engineering approaches are required, ensuring AI tools are used as accelerators rather than decision-makers.
+        - Involved in strategic collaboration between Aker BP and Microsoft on hypervelocity and spec-driven coding initiatives, providing hands-on evaluation, technical feedback, and guidance on practical adoption of AI-assisted development.
+        - Evaluated AI-generated code paths, workflows, and design patterns against engineering standards, reliability requirements, and system-level constraints.
+        - Applied disciplined judgment in selecting and combining physics-based models, statistical methods, machine learning, and AI tools based on problem structure, risk profile, and production constraints.
 
-- role: R&D Lab Engineer
+- role: Lead R&D Engineer
   organization: Marwell Tech AS
-  location: Norway
-  start: 2025-03
-  end: 2025-06
-  domains:
-    - Physics-based modeling
-    - Experimental systems
-  highlights:
-    - Developed calibrated physics-based models for dissolvable alloy systems
-    - Led experimental campaigns for ExxonMobil Guyana project
-    - Translated experimental results into engineering decision support
+  start: 03/2025
+  end: 06/2025
+  projects:
+    - name: "Physics-Based Modeling & Experimental Systems"
+      items:
+        - Designed and executed controlled experimental methodologies to characterize dissolution behavior and performance of downhole components under realistic operating conditions.
+        - Developed and calibrated physics-based models using experimental data to simulate dissolution dynamics of proprietary alloy systems.
+        - Translated experimental observations into simplified, interpretable models suitable for prediction and engineering decision support.
+    - name: "Data Analysis, Validation & Decision Support"
+      items:
+        - Led in-house testing campaigns for ExxonMobil's Guyana project, managing the full workflow from experimental design and data acquisition to analysis and interpretation.
+        - Analyzed complex, high-variance experimental datasets to identify key drivers of system behavior and performance limits.
+        - Produced technical reports, test summaries, and product documentation to support internal decisions and external stakeholders.
+    - name: "Cross-Functional Engineering Collaboration"
+      items:
+        - Worked closely with suppliers, manufacturers, and field engineers to iterate on design choices based on empirical data and operational constraints.
+        - Ensured compliance with industry standards and internal quality protocols across experimental execution, data handling, and failure analysis.
+
+- role: Research Fellow (PhD)
+  organization: University of Stavanger, Norway
+  department: Department of Energy and Petroleum Engineering
+  start: 08/2021
+  end: 03/2025
+  projects:
+    - name: "Computational Modeling & Multiphase Flow Analysis"
+      items:
+        - Conducted research on fluid displacement and multiphase flow dynamics in confined geometries, focusing on nonlinear behavior, instability mechanisms, and regime transitions.
+        - Developed and applied computational fluid dynamics (CFD) models to simulate complex multiphase systems governed by coupled nonlinear equations.
+        - Performed mathematical analysis and scaling studies using dimensionless parameters to classify flow regimes and identify dominant physical drivers.
+    - name: "Model Validation, Data Analysis & Uncertainty Reasoning"
+      items:
+        - Designed experimental methodologies to validate numerical models and assess model fidelity against controlled observations.
+        - Analyzed high-variance experimental datasets to extract robust signals, quantify uncertainty, and evaluate model assumptions.
+        - Built structured datasets combining experimental and simulated data to support systematic comparison and interpretation.
+    - name: "Research Delivery"
+      items:
+        - Integrated experimental findings and numerical modeling to reason about complex system behavior under incomplete and imperfect information.
+        - Collaborated with multidisciplinary teams of researchers, engineers, and technicians to deliver project milestones within time and resource constraints.
+        - Co-authored multiple peer-reviewed publications in high-impact journals.
 
 - role: Research Fellow
-  organization: University of Stavanger
-  location: Norway
-  start: 2021-08
-  end: 2025-02
-  domains:
-    - Multiphase flow
-    - CFD and instability analysis
-  highlights:
-    - Computational and experimental study of confined multiphase flow systems
-    - Uncertainty reasoning and model validation
-    - Peer-reviewed publications in high-impact journals
-
-- role: Research Fellow
-  organization: Polytechnique Montréal
-  location: Canada
-  start: 2018-01
-  end: 2020-12
-  domains:
-    - Experimental systems
-    - Process modeling
-  highlights:
-    - Autothermal reforming experiments and modeling
-    - International academic–industry collaboration
+  organization: Polytechnique Montréal, Canada
+  department: Department of Mechanical Engineering
+  start: 01/2018
+  end: 12/2020
+  items:
+    - Led a research project on autothermal reforming (ATR) for synthesis gas production, combining experimental measurement design with modeling and data analysis to optimize efficiency and emissions.
+    - Developed and operated pilot- and bench-scale experimental systems, supported by advanced diagnostics and post-processing to extract actionable system behavior.
+    - Executed and supervised bench-scale experiments, and translated experimental observations into models and engineering insights relevant for scale-up and decision-making.
+    - Collaborated with international partners and co-authored publication in peer-reviewed journal and presented research findings at international conferences.
 
 - role: Graduate Research Fellow
-  organization: Georgia Institute of Technology
-  location: USA
-  start: 2016-05
-  end: 2017-12
-  domains:
-    - Multiphysics simulation
-    - Early machine learning
-  highlights:
-    - Plasma-assisted combustion modeling using CFD and DNS
-    - Early CNN-based surrogate models for aerodynamics
+  organization: Georgia Institute of Technology, USA
+  department: Department of Aerospace Engineering
+  start: 05/2016
+  end: 12/2017
+  items:
+    - Conducted numerical and computational studies of plasma-assisted combustion using CFD, DNS, and multi-physics simulation to analyze ignition behavior, kinetics, and efficiency under extreme conditions.
+    - Developed high-performance scientific computing tools using Fortran, MATLAB, and parallel computing to simulate multi-scale systems.
+    - Co-authored peer-reviewed publications and presented results at international conferences.
+    - Parallel research in early deep learning for aerodynamic prediction, developing CNN-based surrogate models for airfoil lift estimation.
+    - Designed data pipelines, feature extraction, and model training workflows for high-dimensional aerodynamic datasets, producing highly cited results.
+
+- role: Graduate Teaching Assistant
+  organization: Georgia Institute of Technology, USA
+  department: Department of Aerospace Engineering
+  start: 08/2015
+  end: 05/2016
+  items:
+    - Led laboratory sessions and lectures in control systems, supported by numerical simulation and experimental design.
+    - Refined and implemented lab materials demonstrating key principles of control theory, numerical simulation, and stability augmentation systems for aircraft and spacecraft.
+    - Assessed student performance through grading of homework, exams, and lab reports, providing detailed feedback to support learning and skill development.
+
+- role: Undergraduate Research Assistant
+  organization: Georgia Institute of Technology, USA
+  department: Department of Aerospace Engineering (Rotational Program)
+  start: 01/2013
+  end: 05/2015
+  items:
+    - Participated in a multi-year rotational research program across combustion, high-power electric propulsion, and aeroelasticity, supporting experimental design, data analysis, and modeling.
+    - Contributed to experimental and analytical studies presented at international conferences.
+
+- role: DAAD Research Fellow
+  organization: TU Berlin, Germany
+  department: Institute of Fluid Dynamics and Technical Acoustics (ISTA)
+  start: 05/2014
+  end: 08/2014
+  items:
+    - Conducted experimental research on pulse detonation combustion systems, applying optical diagnostics and collaborating in an international research environment.
