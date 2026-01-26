@@ -17,9 +17,10 @@ I enjoy problems where choosing the right abstraction matters more than choosing
 Senior Data Scientist, Aker BP
 
 **Core interests**
-- Time-series anomaly detection
 - Physics-informed machine learning
-- Multiphase flow and complex systems
+- Interpretable and explainable models
+- Fluid mechanics and multiphase flow
+- Data-driven methods for complex systems
 - AI systems, agents, and decision support
 
 **Research profiles**
