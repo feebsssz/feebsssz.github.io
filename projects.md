@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: DS/ML Projects
 permalink: /projects/
 ---
 

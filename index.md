@@ -3,17 +3,17 @@ layout: default
 title: Home
 ---
 
-# Yao Zhang
+# Yao Zhang, PhD
 
 ## About me
 
-I work on complex engineering and data-driven systems where uncertainty, nonlinear behavior, and operational constraints shape outcomes.
+I work on complex engineering and data-driven systems where **uncertainty**, **nonlinear behavior**, and **operational constraints** shape outcomes.
 
-Academically trained in aerospace engineering and energy systems, with a focus on fluid dynamics, combustion, and complex flow phenomena, my background spans physics-based modeling, experimental analysis, high-performance computing, and production machine learning across academia and industry. This experience has shaped how I reason about complex systems governed by incomplete information, instabilities, and coupled dynamics using mathematical models, numerical simulation, and data-driven methods, while remaining explicit about what can, and cannot, be inferred from the available data.
+My background spans **aerospace engineering**, **fluid dynamics**, **combustion**, and **energy systems**, combining **physics-based modeling**, **experimental analysis**, **high-performance computing**, and **production machine learning** across academia and industry. This has shaped how I reason about systems governed by incomplete information, instabilities, and coupled dynamics, and how I stay explicit about what can and cannot be inferred from the available data.
 
-Today, my work focuses on designing models and AI systems that support decisions in complex, operational systems. This includes implementing and adapting advanced machine learning and deep learning methods through careful tuning, validation, and modification to fit specific data characteristics, as well as building agentic AI workflows for diagnostics, automation, and human-in-the-loop reasoning. Trained first as a scientist and now working in AI, I view AI as one powerful tool within a broader modeling toolbox. It can accelerate exploration and implementation, but its effectiveness is bounded by data quality, measurement, and domain understanding. Effective systems come from choosing the right abstraction, not from applying the most fashionable technique.
+Today, I design models and AI systems that solve real production problems with real data, real constraints, and real consequences. This includes adapting **machine learning** and **deep learning** methods to fit specific data characteristics, and building **agentic AI** workflows for diagnostics, automation, and **human-in-the-loop** reasoning.
 
-I enjoy problems where choosing the right abstraction matters more than choosing the latest tool.
+Trained first as a scientist, I view AI as one powerful tool within a broader toolkit that includes **mathematical models**, **numerical simulations**, and **classical statistical methods**. Its generalization ability is ultimately bounded by **data quality** and **domain understanding**. I believe effective systems come from choosing the right formulation, not from applying the most fashionable technique, and I gravitate toward problems where that distinction matters.
 
 **Current role**  
 Senior Data Scientist, Aker BP
@@ -27,11 +27,11 @@ Senior Data Scientist, Aker BP
 
 ## Beyond Work
 
-Outside of work, I spend time sailing. I've done multi-week passages as skipper in the Aegean Sea around the Paros and Cyclades region. Navigating weather, open water, and inter-island routes offers a different perspective on system dynamics and decision-making under uncertainty.
+Outside of work, I sail. I've skippered multi-week passages in the Aegean Sea around Paros and the Cyclades, navigating weather, open water, and inter-island routes.
 
-I enjoy slow travel and am particularly drawn to places where landscape, culture, and history intersect, shaped by having lived, studied, and worked across many regions worldwide. Closer to home, I practice Chinese calligraphy, which I've studied since a young age and value for its emphasis on precision, form, and disciplined repetition.
+Having lived, studied, and worked across many countries and regions, I'm drawn to places where landscape, culture, and history intersect. Closer to home, I practice Chinese calligraphy, which I've studied since a young age.
 
-I'm a mother of three young children. We live in Sandnes, Norway, and our family background spans Canada, France, and China.
+Most of my current spare time belongs to my three toddlers. Together with my husband, a French scientist, we live in Sandnes, Norway, surrounded by nature and coastline. Our family roots stretch across Canada, France, and China, and the kids happen to be my best French and Norwegian teachers.
 
 **Professional links**
 - [Email](mailto:phoebeyao.zhang@gmail.com)

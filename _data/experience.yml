@@ -5,7 +5,7 @@
   projects:
     - name: "AI@Core – Production Anomaly Detection & Agent Integration"
       items:
-        - Sole data scientist responsible for designing, implementing, and validating an end-to-end time-series anomaly detection modeling of large-scale well and sensor data.
+        - Core data scientist responsible for designing, implementing, and validating an end-to-end time-series anomaly detection modeling of large-scale well and sensor data.
         - One of two executive-sponsored AI@Core pilot projects (out of seven) that progressed from proof-of-concept to production deployment.
         - Implemented an end-to-end Python-based ML pipeline encompassing domain-informed data structuring, physics-aware feature engineering, model selection and training, and production-grade inference and evaluation.
         - Developed anomaly detection models designed for downstream diagnostics and integration with agentic AI systems supporting decision-support workflows.
@@ -17,7 +17,7 @@
         - Developed reusable ingestion, enrichment, and indexing pipelines using Azure AI Search and Fabric OneLake with strict governance, RBAC, and auditability.
         - Built SDKs, developer tooling, templates, and automated onboarding workflows enabling consistent and repeatable deployment of AI systems across teams.
         - Contributed to production governance standards including model evaluation, Responsible AI compliance, security validation, monitoring, and lifecycle management.
-    - name: "Foundation Model Evaluation & Strategic Collaboration (NVIDIA)"
+    - name: "Evaluation of NVIDIA [NV-Tesseract-AD](https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/) Foundation Model"
       items:
         - Led technical evaluation of NVIDIA time-series foundation models for anomaly detection, including hands-on testing of containerized, out-of-the-box solutions.
         - Designed and executed benchmarking experiments comparing vendor foundation models against custom in-house implementations.
@@ -79,10 +79,11 @@
   start: 01/2018
   end: 12/2020
   items:
-    - Led a research project on autothermal reforming (ATR) for synthesis gas production, combining experimental measurement design with modeling and data analysis to optimize efficiency and emissions.
-    - Developed and operated pilot- and bench-scale experimental systems, supported by advanced diagnostics and post-processing to extract actionable system behavior.
-    - Executed and supervised bench-scale experiments, and translated experimental observations into models and engineering insights relevant for scale-up and decision-making.
-    - Collaborated with international partners and co-authored publication in peer-reviewed journal and presented research findings at international conferences.
+    - Led a research project on autothermal reforming (ATR) for synthesis gas production, focusing on combustion processes, efficiency optimization, and emissions reduction.
+    - Designed, built, and operated pilot- and bench-scale experimental systems for ATR using CAD-assisted design, supporting feasibility assessment and scale-up considerations.
+    - Developed and applied advanced experimental diagnostics, including optical and thermal measurement techniques, to characterize multi-gas combustion behavior and system performance.
+    - Translated experimental observations into quantitative models and engineering insights to support decision-making and downstream application.
+    - Collaborated with international partners, co-authored peer-reviewed publications, and presented research findings at international conferences.
 
 - role: Graduate Research Fellow
   organization: Georgia Institute of Technology, USA

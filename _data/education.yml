@@ -1,20 +1,20 @@
 - degree: Ph.D., Energy and Petroleum Engineering
-  institution: University of Stavanger, Norway
+  institution: "[University of Stavanger](https://www.uis.no/en), Norway"
   start: 2021
   end: 2024
   details:
-    - Research focus on computational fluid dynamics, instability analysis, and modeling of complex multiphase systems under uncertainty.
+    - Research focused on computational and experimental fluid dynamics, multiphase flow, instability analysis, and modeling of complex multiphase systems under uncertainty.
     - "Thesis: *Fluid Displacement in Confined Geometries: Experimental and Computational Studies of Interfacial Dynamics, Flow Characteristics, and Wall Film Removal* ([link](https://hdl.handle.net/11250/3205019))"
 
 - degree: Master of Liberal Arts, Data Science
-  institution: Harvard University, USA
+  institution: "[Harvard University](https://www.harvard.edu/), USA"
   start: 2022
   end: 2024
   details:
     - "Thesis: *Extreme weather mortgage risk analysis: a deep learning approach to forecasting loan default and performance under macroeconomic and climate uncertainty.* (Sponsored by PNC Bank)"
 
 - degree: Master of Science, Aerospace Engineering
-  institution: Georgia Institute of Technology, USA
+  institution: "[Georgia Institute of Technology](https://ae.gatech.edu/), USA"
   start: 2015
   end: 2017
   details:
@@ -23,7 +23,7 @@
     - Successfully passed comprehensive examination and attained doctoral candidacy in Combustion & Propulsion and Fluid Mechanics Turbulence Flow.
 
 - degree: Bachelor of Science, Aerospace Engineering
-  institution: Georgia Institute of Technology, USA
+  institution: "[Georgia Institute of Technology](https://ae.gatech.edu/), USA"
   start: 2012
   end: 2015
   details:
