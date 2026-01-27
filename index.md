@@ -34,6 +34,7 @@ I enjoy slow travel and am particularly drawn to places where landscape, culture
 I'm a mother of three young children. We live in Sandnes, Norway, and our family background spans Canada, France, and China.
 
 **Professional links**
+- [Email](mailto:phoebeyao.zhang@gmail.com)
 - [ORCID](https://orcid.org/0000-0002-3540-6452)
 - [Google Scholar](https://scholar.google.com/citations?user=DVoYYdYAAAAJ&hl=en)
 
