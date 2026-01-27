@@ -7,7 +7,7 @@ title: Thoughts
 
 Notes on how I think about technical work, systems, and complexity. Not polished essays, just snapshots of understanding at a given time. 
 
-More will follow.
+More will follow... 
 
 - **On "Data Scientist"**  -- In my view, there is no such thing as a data scientist as a separate profession. 
 
@@ -26,7 +26,7 @@ Vibe coding is powerful. But in practice, reliable setup (for me) is simple: *th
 This shift is asymmetric.
 
 For roles whose core value is writing code itself, AI acts as a direct competitor. For people trained to think from first principles, AI functions more like a force multiplier. Many of these people were never limited by ideas, but by tools. Removing the implementation bottleneck does not replace them; it accelerates their ability to explore, test, and create. From my experience in interviews and team building, I increasingly value scientific training, not because any specific discipline matters, but because long-term research practice develops habits that are hard to commoditize: abstracting structure from messy problems, making defensible assumptions, staying sensitive to physical and logical consistency, and pushing forward under high uncertainty. In the long run, code execution is cheap. Knowing what should be built, and why, is not.
--->
+
 
 - **On Ideas and Timing** -- I don't think any single paper truly determines the direction of history. What proves decisive is whether the technical conditions of the time are already mature. When the tools, methods, and infrastructure are ready, similar ideas tend to emerge independently, sometimes almost inevitably. In that sense, landmark papers often mark a transition rather than cause it.
 
@@ -41,3 +41,4 @@ For roles whose core value is writing code itself, AI acts as a direct competito
 - **On Fluids, Distance, and Why We Study** -- Before publication my thesis, I added an introduction, a different expression of what I have been studying over the past few years: forces, interfaces, perturbations, and instabilities in fluid systems. Every interface is a frontier. Where forces meet, instabilities emerge, and motion begins. Over these years, beyond acquiring techniques, titles, and leaving behind a few written traces, what matters more to me is something quieter. That at certain moments later in life, I will remember that I once seriously studied a romantic discipline. That I once looked sincerely toward distant horizons. That I once read so many books for people I would never meet, and for questions whose answers were never guaranteed. Per scientiam ad astra.
 
 - **On Research, Intuition, and Muscle Memory** -- I have always felt that doing research trains two things above all: intuition and muscle memory. Intuition is the ability to judge quickly, often without explicit reasoning, whether something makes sense or not. Practice helps, but it still feels partly irreducible, something that develops unevenly across people. Muscle memory is the path from mind to hands. The more you do, the smoother it becomes. Deriving equations, tuning code, writing papers, running experiments, the feel of these actions is built through repetition. Over time, these two start to reinforce each other. Intuition guides where to act; muscle memory makes acting effortless. Looking more closely, this is not unique to research. Many things in work and life eventually reduce to the same pair: knowing what feels right, and being able to do it without friction.
+-->
