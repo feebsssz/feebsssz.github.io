@@ -1,6 +1,20 @@
-- name: Transformer-Based Model (TFT) Adaptation for Anomaly Detection
-  description: "Re-engineered NVIDIA's Temporal Fusion Transformer, originally designed for multi-horizon forecasting, into a reconstruction-based anomaly detection framework for discontinuous sensor windows. Designed encoder–decoder reconstruction with MAE-based anomaly scoring, eliminated unseen-category issues, simplified tensor structures, and stabilized training without future inputs.<br><br>In parallel, evaluated diffusion-based foundation models for anomaly detection, focusing on diagnostic behavior, reconstruction quality, and suitability for production use."
-  skills: Transformers, diffusion models (evaluation), sequence modeling, reconstruction learning, anomaly detection, PyTorch
+- name: "Deep Learning for Multivariate Well Anomaly Detection (SPE ATCE 2026)"
+  description: "Designed and implemented supervised Transformer and Temporal Fusion Transformer architectures for time-series anomaly detection on multivariate well sensor data. Benchmarked attention-based models against CNN classifiers and pretrained diffusion models, demonstrating that architecture choice must align with anomaly dynamics: local convolution excels at rapid-onset events while global attention captures long-duration degradation patterns. Findings contributed to an accepted SPE ATCE 2026 paper."
+  skills: Transformers, TFT, CNN, sequence classification, anomaly detection, PyTorch
+  ref: "SPE ATCE 2026 (abstract submitted, October 2026, Houston)"
+
+- name: "Evaluation of NVIDIA NV-Tesseract-AD Foundation Model"
+  description: "Led hands-on technical evaluation of NVIDIA's time-series foundation models across four model iterations (transformer-based, diffusion-based, zero-shot forecasting, and context-enhanced retrieval), serving as primary technical contact in direct collaboration with NVIDIA's model engineers via Cognite. Identified structural limitations of forecast-error-based detection on gradual and periodic anomalies, re-implemented vendor architectures as custom multivariate alternatives trained on domain data, and reported bugs contributing to model improvement. Results adopted by Cognite's Dune team for their application demo at NVIDIA GTC 2025."
+  skills: Foundation model evaluation, zero-shot inference, diffusion models, time-series forecasting, benchmarking, Python
+  ref: "[NVIDIA NV-Tesseract-AD](https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/)"
+
+- name: "Physics-Informed Feature Engineering for Equipment & Well Monitoring"
+  description: "Developed thermodynamic and hydraulic features that compress complex multivariate sensor data into interpretable, domain-meaningful signals for anomaly detection. Designed U-ratio (thermal efficiency tracking) for heat exchanger fouling detection, dP/Q (hydraulic resistance) for well tubing health monitoring, and production index frameworks for reservoir productivity diagnostics. These physics-informed representations significantly outperform raw signal inputs in both model robustness and interpretability, and form the basis for production monitoring use cases scoped under the Yggdrasil platform."
+  skills: Physics-informed modeling, thermodynamics, fluid mechanics, feature engineering, time-series analysis, Python
+
+- name: "Data-Driven Tortuosity: Drilling Path Quality Prediction (PoC)"
+  description: "Designed a two-layer ML approach to predict micro-tortuosity risk from high-frequency drilling signals and quantify its impact on non-productive time (NPT). Developed the analytical framework linking drilling dynamics (torque, drag, vibration patterns) to fine-scale wellbore geometry quality, addressing a gap where standard directional surveys miss critical inter-station deviations. Includes early-warning indicators for stuck pipe, wiper trips, and casing difficulties derived from progressive symptom pattern mining."
+  skills: Time-series ML, drilling engineering, feature engineering, predictive modeling, Python
 
 - name: CNN-Based Well Anomaly Detection
   description: Developed a physics-informed deep learning pipeline for anomaly detection on high-frequency well and sensor time-series data. Designed CNN-based classifiers and signal-processing workflows to detect degradation patterns, transient flow abnormalities, and equipment malfunction signatures.

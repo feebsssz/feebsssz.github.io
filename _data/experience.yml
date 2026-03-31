@@ -3,26 +3,27 @@
   start: 09/2025
   end: Present
   projects:
-    - name: "AI@Core – Production Anomaly Detection & Agent Integration"
+    - name: "AI@Core / AI Pod – Production Anomaly Detection for Well & Equipment Monitoring"
       items:
-        - Core data scientist responsible for designing, implementing, and validating an end-to-end time-series anomaly detection modeling of large-scale well and sensor data.
-        - One of two executive-sponsored AI@Core pilot projects (out of seven) that progressed from proof-of-concept to production deployment.
-        - Implemented an end-to-end Python-based ML pipeline encompassing domain-informed data structuring, physics-aware feature engineering, model selection and training, and production-grade inference and evaluation.
-        - Developed anomaly detection models designed for downstream diagnostics and integration with agentic AI systems supporting decision-support workflows.
-        - Established evaluation metrics, validation datasets, and failure analysis to ensure robust performance under real operational conditions.
+        - Core data scientist responsible for designing, implementing, and validating an end-to-end time-series anomaly detection framework across well production and equipment monitoring, an executive-sponsored AI@Core pilot project evaluating AI capability for real production use cases, with successful pilots progressing to production deployment.
+        - Project selected to scale further under the AI Pod campaign targeting large-scale rollout at production maturity, with use cases mapped to key [Yggdrasil](https://akerbp.com/en/project/noaka-2/) monitoring anomalies including scale build-up, pressure deviations, productivity tracking, and valve health.
+        - Developed physics-informed learned representations encoding thermodynamic, multiphase flow, and hydraulic domain knowledge into interpretable feature spaces from multivariate sensor data, enabling robust detection of fouling, scaling, and equipment degradation across diverse operating conditions.
+        - Built and benchmarked anomaly detection approaches including deep learning classifiers, attention-based architectures, and zero-shot foundation models, validated on both public industry benchmarks and real operational data.
+        - Designed evaluation frameworks incorporating trend-aware detection scoring and failure-mode analysis, validated against confirmed maintenance events.
+    - name: "Evaluation of NVIDIA [NV-Tesseract-AD](https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/) Foundation Model"
+      items:
+        - Led hands-on technical evaluation of NVIDIA's time-series foundation models for anomaly detection across four model iterations (transformer-based classifier, diffusion-based, zero-shot forecasting, DARR mode), serving as primary technical point of contact in direct collaboration with NVIDIA's model engineers, facilitated through Cognite. Use case results adopted by Cognite's Dune team for their application demo at NVIDIA GTC 2025.
+        - Systematically benchmarked NVIDIA models across diverse industrial data types (physics-engineered features, raw noisy sensor signals, sparse data, and multivariate well data), demonstrating how physics-informed domain knowledge improves model robustness and reduces configuration sensitivity.
+        - Developed novel evaluation methodology including error derivative analysis to handle multiple anomaly dynamics, demonstrating that understanding evaluation metrics is critical for deploying zero-shot models on noisy industrial production signals.
+        - Re-implemented NVIDIA's transformer architecture as a custom multivariate version trained on domain data, achieving comparable performance to their pre-trained model, proving feasibility of in-house alternatives when vendor models don't cover operational needs.
+        - Provided direct technical feedback to NVIDIA on performance findings, identified limitations, and reported bugs, informing anomaly detection scoping for the Yggdrasil production monitoring platform.
     - name: "AI Foundation Platform Development (Software, Infrastructure, Agents)"
       items:
-        - Core member of the Data Excellence Team building Aker BP's enterprise AI foundation for development, deployment, and lifecycle management of AI agents and copilots.
+        - Core member of the AI Execution & Data Science Team building Aker BP's enterprise AI foundation for development, deployment, and lifecycle management of AI agents and copilots.
         - Designed and implemented platform architecture covering secure data pipelines, compute management, orchestration, and end-to-end CI/CD for AI systems.
         - Developed reusable ingestion, enrichment, and indexing pipelines using Azure AI Search and Fabric OneLake with strict governance, RBAC, and auditability.
         - Built SDKs, developer tooling, templates, and automated onboarding workflows enabling consistent and repeatable deployment of AI systems across teams.
         - Contributed to production governance standards including model evaluation, Responsible AI compliance, security validation, monitoring, and lifecycle management.
-    - name: "Evaluation of NVIDIA [NV-Tesseract-AD](https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/) Foundation Model"
-      items:
-        - Led technical evaluation of NVIDIA time-series foundation models for anomaly detection, including hands-on testing of containerized, out-of-the-box solutions.
-        - Designed and executed benchmarking experiments comparing vendor foundation models against custom in-house implementations.
-        - Re-implemented core model architectures, including Transformer-based and diffusion-based approaches, to assess performance, interpretability, and production suitability.
-        - Provided technical feedback and recommendations to NVIDIA model development teams based on empirical results, operational constraints, and governance requirements.
     - name: "AI-Augmented Engineering & Agentic AI"
       items:
         - Contributed to defining and shaping best practices for incorporating agentic AI and LLM-based tooling into daily workflows, with a focus on correctness, maintainability, and production suitability.
