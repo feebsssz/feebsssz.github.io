@@ -1,3 +1,10 @@
+# 2026
+- authors: Y. Zhang, B. Barrouillet
+  title: "Multivariate Well Anomaly Detection: Local Convolution, Global Attention Transformers, And Zero-Shot Diffusion Models"
+  venue: SPE Annual Technical Conference and Exhibition (ATCE)
+  year: 2026
+  type: Conference
+
 # 2025
 - authors: Y. Zhang, K. E. T. Giljarhus, H. J. Skadsem, B. Barrouillet
   title: "Numerical modeling of fluid displacement in Hele-Shaw cells: A gap-averaged approach for power-law and Newtonian fluids"
