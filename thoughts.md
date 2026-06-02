@@ -20,6 +20,32 @@ The tools changed, the label changed, but the core skill did not: forming hypoth
 Specifications describe what a system should do, but they rarely constrain how low-level architecture emerges: state placement, timing assumptions, implicit coupling, data flow. *What people often call "drift" is not a sudden loss of goal, but a structural drift:* thousands of tiny design choices, each slightly misaligned, slowly turning the system into something you didn't intend and can no longer easily fix. 
 Vibe coding is powerful. But in practice, reliable setup (for me) is simple: *the human owns the architecture and decisions; the agent executes small, small and well-scoped tasks.* Speed is great, but the details are usually what decides whether a project survives.
 
+- **On Agents and the New Computing Paradigm**
+
+  The simplest framing: *Agent = LLM + Harness*. An application used to be code running on an operating system. An agent is an LLM inside an orchestration framework that coordinates its perception, reasoning, and tool use.
+
+  The LLM thinks. The harness does what an OS does: connects the parts, manages state, routes information. Memory management matters more than it appears, for both working context and longer-term state.
+
+  The interaction model shifts too. Before, you launched software and operated it. Now you state intent and the system figures out execution. That is not a better interface. It is a different computational model.
+
+- **On Why Generative AI Cannot Be a Scientist (Yet)**
+
+  Richard Sutton framed the limitation well: generative AI often faces the classic reviewer's verdict — the novel parts are not good, and the good parts are not novel.
+
+  When optimized for accuracy, a model tends to reproduce or recombine patterns from existing knowledge. When it departs from those patterns, it risks hallucination.
+
+  The reason is structural. Supervised learning trains a model to imitate distributions. A base generative model can produce plausible candidates, but it has no built-in loop for testing whether a claim is true, novel, useful, or merely convincing.
+
+  **Generation creates candidates. Evaluation creates knowledge.**
+
+  Scientific discovery is not just generation. It is variation, evaluation, rejection, refinement, and selective retention. AlphaGo worked not simply because it saw more games, but because it had a clear objective and a closed feedback loop: generate moves, evaluate outcomes, and improve through self-play.
+
+  Science needs the same kind of loop, but harder: evaluation against evidence, mathematics, physical constraints, predictive power, uncertainty, and reproducibility.
+
+  More data and larger models can improve fluency and coverage. But scale alone does not create scientific validation.
+
+  The missing piece is the evaluation loop.
+
 <!--
 - **On Coding and SD Skills** *(Jan 2025)*-- Over the past two years, pure coding ability has become one of the fastest-depreciating technical advantages.... With AI in the loop, large parts of traditional software engineering are being rapidly commoditized. Code is shifting from a differentiating skill to something closer to basic production infrastructure.
 
